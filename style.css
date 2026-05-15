@@ -49,3 +49,15 @@ li {
 div {
     margin-bottom: 20px;
 }
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.7;
+}
